@@ -1,13 +1,13 @@
 
 
 ### Hi there 👋, my name is Olga
-#### I am Software Test Engineer
+#### I am a Software Test Engineer
 
 Welcome to my profile! 
 Here, I share the projects that I work on during training courses. 
 I have been working in testing for over two years, and here is what my expertise includes: 
 - Developing comprehensive test cases, checklists, and bug reports.
-- Performing UI, API, backend, and regression testing.
+- Conducting UI, API, backend, and regression testing.
 - Experience in developing automated tests using Playwright. 
 - Familiarity with bug tracking tools such as JIRA, Redmine, and Azure DevOps.
 - Experience with tools such as Postman, Swagger, SoapUI, Wireshark, MS SQL, PostgreSQL, Chrome DevTools, AWS, Docker, Visual Studio, and Git (command line).
