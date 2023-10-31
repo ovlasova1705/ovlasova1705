@@ -2,7 +2,6 @@
 
 ### Hi there 👋, my name is Olga
 #### I am Software Test Engineer
-![I am Software Test Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Welcome to my profile! 
 Here, I share the projects that I work on during training courses. 
