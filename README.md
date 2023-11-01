@@ -1,7 +1,7 @@
 
 
-### Hi there 👋, my name is Olga
-#### I am a Software Test Engineer
+### Hi there 👋, my name is Olga.
+#### I am a Software Test Engineer.
 
 Welcome to my profile! 
 Here, I share the projects that I work on during training courses. 
