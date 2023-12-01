@@ -5,10 +5,12 @@
 
 Welcome to my profile! 
 Here, I share the projects that I work on during training courses. Feel free to check it out:
-[- ✓ JavaScript + Playwright](https://github.com/ovlasova1705/playwright-JS)
-[- ✓ Java + Selenide](https://github.com/ovlasova1705/JetB)
 
-I have been working in testing for over two years, and here is what my expertise includes: 
+[- JavaScript + Playwright](https://github.com/ovlasova1705/playwright-JS)
+
+[- Java + Selenide](https://github.com/ovlasova1705/JetB)
+
+  👩‍💻 I have been working in testing for over two years, and here is what my expertise includes: 
 - Developing comprehensive test cases, checklists, and bug reports.
 - Conducting UI, API, backend, and regression testing.
 - Experience in developing automated tests using Playwright
