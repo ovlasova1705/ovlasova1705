@@ -10,7 +10,7 @@ Here, I share the projects that I work on during training courses. Feel free to 
 
 [- Java + Selenide](https://github.com/ovlasova1705/JetB)
 
-  👩‍💻 I have been working in testing for over two years, and here is what my expertise includes: 
+  👩‍💻 I have been working in testing for three years, and here is what my expertise includes: 
 - Developing comprehensive test cases, checklists, and bug reports.
 - Conducting UI, API, backend, and regression testing.
 - Experience in developing automated tests using Playwright
