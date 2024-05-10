@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋, my name is Olga.
-#### I am a QA Engine
+#### I am a QA Engineer.
 
 Welcome to my profile! 
 Here, I share some pet projects that I worked on. Feel free to check it out.
