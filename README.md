@@ -14,6 +14,8 @@ Here, I share some pet projects that I worked on. Feel free to check it out.
 
 🔹	ISTQB certified.
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ovlasova1705&theme=aura_dark)
+
 
 
 
