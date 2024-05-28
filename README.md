@@ -5,9 +5,13 @@ Welcome to my profile!
 Here, I share some pet projects that I worked on. Feel free to check it out.
 
 🔹	QA Engineer with 3+ years of hands-on experience primarily focused on web application testing in LegalTech and FinTech domains. 
+
 🔹	Skilled in manual testing and writing automated tests using JavaScript/TypeScript and Playwright.  
+
 🔹	Initiated the testing process from scratch within a team. 
+
 🔹	Successfully conducted testing activities in a more targeted and efficient manner due to understanding SDLC and STLC.
+
 🔹	ISTQB certified.
 
 
