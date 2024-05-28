@@ -1,19 +1,16 @@
-
-
 ### Hi there 👋, my name is Olga.
 #### I am a QA Engineer.
 
 Welcome to my profile! 
 Here, I share some pet projects that I worked on. Feel free to check it out.
 
-  👩‍💻 I have been working in testing for three years, and here is what my expertise includes: 
-- Developing comprehensive test cases, checklists, and bug reports.
-- Conducting UI, API, backend, and regression testing.
-- Experience in developing automated tests using Playwright
-- Familiarity with bug tracking tools such as JIRA, Redmine, and Azure DevOps.
-- Experience with tools such as Postman, Swagger, SoapUI, Wireshark, MS SQL, PostgreSQL, Chrome DevTools, AWS, Docker, Visual Studio, and Git (command line).
-- Understanding of the SDLC and experience working with agile development methodologies.
-- ISTQB-certified Tester.
+🔹	QA Engineer with 3+ years of hands-on experience primarily focused on web application testing in LegalTech and FinTech domains. 
+🔹	Skilled in manual testing and writing automated tests using JavaScript/TypeScript and Playwright.  
+🔹	Initiated the testing process from scratch within a team. 
+🔹	Successfully conducted testing activities in a more targeted and efficient manner due to understanding SDLC and STLC.
+🔹	ISTQB certified.
+
+
 
 
 
