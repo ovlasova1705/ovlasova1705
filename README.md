@@ -10,8 +10,6 @@ Here, I share some pet projects that I worked on. Feel free to check it out.
 
 🔹	Initiated the testing process from scratch within a team. 
 
-🔹	Successfully conducted testing activities in a more targeted and efficient manner due to understanding SDLC and STLC.
-
 🔹	ISTQB certified.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovlasova1705&layout=compact)](https://github.com/ovlasova1705/github-readme-stats)
