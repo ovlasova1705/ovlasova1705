@@ -12,6 +12,11 @@ Here, I share some pet projects that I worked on. Feel free to check it out.
 
 🔹	ISTQB certified.
 
+
+<div id="badges">
+[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/olga-vlasova/)
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovlasova1705&layout=compact)](https://github.com/ovlasova1705/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ovlasova1705&theme=buefy)
