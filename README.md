@@ -19,8 +19,8 @@ I'm a **QA Engineer** with over **3 years of experience** in testing web applica
 
 ### 🔗 **Let's connect**:
 
-- Reach out to me via [email](mailto:ovlasova1705@gmail.com)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/olga-vlasova/)
+- Reach out to me via email **ovlasova1705@gmail.com**.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/olga-vlasova/).
 
 
 
