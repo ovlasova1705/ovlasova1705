@@ -1,19 +1,27 @@
-### Hi there 👋, my name is Olga.
-#### I am a QA Engineer.
+### Hi there! 👋 I'm Olga.
+---
+### 🛠️ **Welcome to my GitHub profile!**
 
-Welcome to my profile! 
-Here, I share some pet projects that I worked on. Feel free to check it out.
+I'm a **QA Engineer** with over **3 years of experience** in testing web applications. 
 
-🔹	QA Engineer with 3+ years of hands-on experience primarily focused on web application testing in LegalTech and FinTech domains. 
+### 🔎 **A little more about me**:
 
-🔹	Skilled in manual testing and writing automated tests using JavaScript/TypeScript and Playwright.  
+🔹	Skilled in manual testing and writing automated tests using **JavaScript/TypeScript** and **Playwright**.  
 
 🔹	Initiated the testing process from scratch within a team. 
 
 🔹	ISTQB certified.
 
+### 🌟 **Explore my work**:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/olga-vlasova/)
+- Here, I share **examples of automated tests** that I've developed. 
+- Feel free to explore my **[AutomatedTests](https://github.com/ovlasova1705/AutomatedTests)** project.
+
+### 🔗 **Let's connect**:
+
+- Reach out to me via [email](mailto:ovlasova1705@gmail.com)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/olga-vlasova/)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovlasova1705&layout=compact)](https://github.com/ovlasova1705/github-readme-stats)
