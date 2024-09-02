@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Olga.
 ---
-### 🛠️ **Welcome to my GitHub profile!**
+### **Welcome to my GitHub profile!**
 
 I'm a **QA Engineer** with over **3 years of experience** in testing web applications. 
 
