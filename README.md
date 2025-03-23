@@ -2,7 +2,7 @@
 ---
 ### **Welcome to my GitHub profile!**
 
-I'm a **QA Engineer** with over **3 years of experience** in testing web applications. 
+I'm a **QA Engineer** with over **4 years of experience** in testing web applications. 
 
 ### 🔎 **A little more about me**:
 
